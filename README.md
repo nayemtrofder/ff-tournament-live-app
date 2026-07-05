@@ -1,1 +1,0 @@
-# ff-tournament-live-app
